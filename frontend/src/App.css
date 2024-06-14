@@ -1,0 +1,17 @@
+
+*{
+
+
+  margin: 0;
+  padding: 0;
+}
+
+.viewbooks{
+  outline:"none";
+  border:"1px solid white";
+  background-color:"transparant";
+  padding:5px 20px 5px 20px;
+  color:black;
+  font-size: 20px
+}
+
